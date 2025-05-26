@@ -3,5 +3,5 @@ This algorithm was thought of my me and is something that tries to tackle a prob
 
 # Essence
 
-The folder 'Attempts' holds different py files which are my (failed) attempts to solve the problem mentioned above.
+The folder 'Algorithm Attempt' holds different py files which are my (failed) attempts to solve the problem mentioned above.
 By no means is this a perfect solution or credible one, just an attempt by a computer science enthusiast.
